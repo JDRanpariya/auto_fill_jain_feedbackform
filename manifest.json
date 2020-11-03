@@ -1,8 +1,12 @@
 {
     "name": "auto_fill_jainfeedback",
+
     "version": "1.0",
+
     "description": "autofills the boring feedback forms given by Jain university with score of 5",
+
     "manifest_version": 2,
+
     "browser_action": {
         "default_icon": "icon.png",
         "default_popup": "popup.html",
@@ -10,10 +14,12 @@
       },
 
       "permissions": [
-          "activeTab",
-          "http://*/*",
-          "https://*/*"
-      ]
+         	 "activeTab"
+       ]
 
-
+     "content_scripts": [
+	{
+		"matches": ["https://docs.google.com/forms/*"]
+	}
+	]
 }
