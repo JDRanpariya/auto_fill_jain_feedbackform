@@ -1,4 +1,4 @@
-# Autofills Jain University feedback forms
+# Autofills Boring feedback forms given by Jain University with score of 5
 
 1. Clone it
 2. Open chrome://extentions
@@ -9,4 +9,4 @@
 
 1. Open google form and click on the extention
 
-EnJoy xD
+## EnJoy xD ##
