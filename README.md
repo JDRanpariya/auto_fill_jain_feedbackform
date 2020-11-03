@@ -5,7 +5,7 @@
 3. Toggle dev mode to on
 4. Click load unpacked on top left && select the cloned folder
 
-#usage
+# usage
 
 1. Open google form and click on the extention
 
